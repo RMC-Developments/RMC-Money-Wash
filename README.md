@@ -8,7 +8,7 @@ Players can exchange `black_money` for clean cash by interacting with a rotating
 
 ## 📌 Features
 ✔ **Ped spawns at random locations from config**  
-✔ **Ped moves every 5 minutes to a new location**  
+✔ **Ped moves every 60 minutes to a new location**  
 ✔ **Uses `ox_target` for interaction**  
 ✔ **Configurable locations** (`config.lua`)  
 ✔ **Time-based money laundering process**  

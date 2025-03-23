@@ -68,3 +68,6 @@ Interaction: ox_target
 Notifications: okokNotify
 
 Discord:https://discord.gg/Fz2U7CXRb2
+
+![1377fae9-0b45-4334-8e8f-5d28838d33a9 (1)](https://github.com/user-attachments/assets/c8c24ca5-6051-4629-8382-b3af1daedc4a)
+

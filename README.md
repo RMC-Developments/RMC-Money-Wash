@@ -13,6 +13,8 @@ Players can exchange `black_money` for clean cash by interacting with a rotating
 ✔ **Configurable locations** (`config.lua`)  
 ✔ **Time-based money laundering process**  
 
+![1377fae9-0b45-4334-8e8f-5d28838d33a9 (1)](https://github.com/user-attachments/assets/807053ae-9de7-434e-9318-1a6a2da5de45)
+
 ---
 
 ## 📥 Installation Guide
